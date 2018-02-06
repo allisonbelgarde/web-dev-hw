@@ -1,0 +1,7 @@
+One way data travels the internet is IP addresses. Any device that can access the internet has its unique address that shares information with other devices.
+
+DNS is the system that associates domain names with IP addresses.
+
+A cookie is the data held by a computer that accesses different domains.
+
+A URL has a protocol, domain name, and path
