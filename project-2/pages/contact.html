@@ -13,16 +13,39 @@
   </style>
 
   <ul>
-    <li><a href="../">Home Page</a></li>
-    <li><a href="./pages/about.html">About</a></li>
+    <li><a href="https://allisonbelgarde.github.io/web-dev-hw/project-2/">Home Page</a></li>
+    <li><a href="./about.html">About</a></li>
   </ul>
 
 </head>
 
 <body>
 
-<form action=""
+<h1>Want to leave feedback?</h1>
+<p>If you would like to leave feedback concerning this instructable, leave your email
+  address and fill out the questionnaire below!</p>
 
+<form action="https://allisonbelgarde.github.io/web-dev-hw/project-2/pages/contact.html/" method="get" id="contact-form" class="basic-forms">
+<p>Email:<input type="text" name="email" id="email_input" />
+</p>
+
+<p>Did you find this instructable helpful?</p>
+<input type="radio" name="level" value="y" /> Yes
+</br>
+<input type="radio" name="level" value="n" /> No
+</br>
+
+<p>What kinds of topics do you find of interest?</p>
+<input type="checkbox" name="topic" value="food" /> Food
+ <br />
+ <input type="checkbox" name="topic" value="music" /> Music
+ <br />
+ <input type="checkbox" name="topic" value="videogames" /> Video Games
+ <br />
+ <input type="checkbox" name="topic" value="diy" /> DIY
+</form>
+
+<input type="submit" name="submit" value="Submit" />
 </body>
 
 
