@@ -1,0 +1,63 @@
+
+body {
+  font-size: 14pt;
+  background-color: powderblue;
+  font-family: Times;
+}
+
+p {
+  color: black;
+}
+
+.main-container {
+  border: solid;
+  border-width: 5px;
+  border-color: blue !important;
+}
+
+
+.main-container>p {
+  color: white;
+}
+
+.secondary-container {
+  border: solid;
+  border-width: 5px;
+  border-color: magenta;
+
+}
+
+.secondary-container p {
+  color: green;
+}
+
+.third-container {
+  border: solid;
+  border-width: 5px;
+  border-color:blue;
+  opacity: 0.5;
+
+}
+
+#heading {
+  color: hotpink;
+}
+
+/*This yellow color is very obnoxious */
+.image-1 {
+  border: solid;
+  border-width: 5px;
+  border-color: yellow;
+}
+
+.image-2{
+  border: dotted;
+  border-width: 5px;
+  border-color: orange;
+}
+
+.image-3 {
+  border: solid;
+  border-width: 5px;
+  border-color: yellow;
+}
