@@ -1,0 +1,56 @@
+
+@font-face {
+  font-family: 'Lora';
+  src: url('.../fonts/Lora-Regular.ttf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lora';
+  src: url('.../fonts/Lora-Bold.ttf') format('opentype');
+  font-weight: bold ;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Lora';
+  src: url('.../fonts/Lora-Italic.ttf') format('opentype');
+  font-weight: normal;
+  font-style: italic ;
+}
+
+@font-face {
+  font-family: 'Lora';
+  src: url('.../fonts/Lora-BoldItalic.ttf') format('opentype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'PT_Serif-Web';
+  src: url('.../fonts/PT_Serif-Web-Regular') format('opentype') ;
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PT_Serif-Web' ;
+  src: url('.../fonts/PT_Serif-Web-Bold') format('opentype');
+  font-weight: bold ;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PT_Serif-Web' ;
+  src: url('.../fonts/PT_Serif-Web-Italic') format ('opentype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'PT_Serif-Web';
+  src: url('.../fonts/PT_Serif-Web-BoldItalic') format ('opentype');
+  font-weight: bold;
+  font-style: italic ;
+}

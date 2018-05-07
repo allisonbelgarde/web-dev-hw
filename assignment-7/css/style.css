@@ -1,0 +1,60 @@
+
+body {
+  background-color: pink;
+}
+
+.title {
+  font-size: 20pt;
+  font-family: 'Lora';
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+.author {
+  font-size: 16pt;
+  font-family: 'PT_Serif-Web';
+  font-weight: normal;
+  font-style: normal;
+}
+
+.act {
+  font-size: 12pt;
+  font-family: 'PT_Serif-Web';
+  font-weight: bold;
+}
+
+.directions {
+  font-size: 12pt;
+  font-family: 'PT_Serif-Web';
+  font-style: italic;
+}
+
+.speaker {
+  font-size: 12pt;
+  font-family:'PT_Serif-Web';
+  font-style: italic;
+  font-weight: bold;
+}
+
+.text {
+  font-size: 14pt;
+  font-family: 'Lora';
+  font-weight: normal;
+  font-style: normal;
+}
+
+a:link {
+  color: #79AF33;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #777;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #1CCDCA;
+  text-decoration: italic;
+}
